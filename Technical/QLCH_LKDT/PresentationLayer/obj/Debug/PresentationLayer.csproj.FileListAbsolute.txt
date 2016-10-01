@@ -1,0 +1,14 @@
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\PresentationLayer.exe
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\PresentationLayer.pdb
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\BusinessLogicLayer.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\DataTransferObject.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\BusinessLogicLayer.pdb
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\DataTransferObject.pdb
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\obj\Debug\PresentationLayer.Form1.resources
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\obj\Debug\PresentationLayer.Properties.Resources.resources
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\obj\Debug\PresentationLayer.exe
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\obj\Debug\PresentationLayer.pdb
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\DataAcessLayer.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\PresentationLayer\bin\Debug\DataAcessLayer.pdb

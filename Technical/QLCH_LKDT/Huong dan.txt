@@ -1,0 +1,7 @@
+﻿Chương trình chia thành 3 lớp(DAL, BUS, PresentationLayer) và 1 project hỗ trợ( DTO)
+- DTO : chỉ định nghĩa class
+- DAL : khai báo các hàm truy xuất dữ liệu qua thông qua câu store proceduce.
+- BUS chỉ kết nối DAL vs PresentationLayer
+
+*Lưu ý: chỉnh sửa sql connect string ở DataTransferObject/Global/DataConection.cs/getConnectionString_1()
+Chỉnh sửa tên server và tên cơ sở dữ liệu

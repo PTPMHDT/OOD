@@ -1,0 +1,7 @@
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\bin\Debug\DataTransferObject.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\bin\Debug\DataTransferObject.pdb
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.csprojResolveAssemblyReference.cache
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

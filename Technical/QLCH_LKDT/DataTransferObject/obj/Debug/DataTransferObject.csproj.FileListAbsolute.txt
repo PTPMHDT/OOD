@@ -1,0 +1,5 @@
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\bin\Debug\DataTransferObject.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\bin\Debug\DataTransferObject.pdb
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.dll
+c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.pdb
