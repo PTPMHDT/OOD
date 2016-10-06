@@ -86,6 +86,7 @@
             this.btnLogin.Size = new System.Drawing.Size(105, 36);
             this.btnLogin.TabIndex = 3;
             this.btnLogin.Text = "Đăng Nhập";
+            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // btnCancel
             // 
@@ -100,6 +101,7 @@
             this.btnCancel.Size = new System.Drawing.Size(69, 36);
             this.btnCancel.TabIndex = 4;
             this.btnCancel.Text = "Hủy";
+            this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
             // formLogin
             // 

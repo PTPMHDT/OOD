@@ -59,7 +59,7 @@ namespace DataTransferObject.Global
         private bool getConnectionString_1()
         {
 
-            m_connecstring = @"Data Source=CONAN\SQLEXPRESS; Initial Catalog=mydb; Integrated Security=True";
+            m_connecstring = @"Data Source=CONAN\SQLEXPRESS; Initial Catalog=QuanLyLinhKien; Integrated Security=True";
             return true;
 
         }
