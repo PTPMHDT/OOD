@@ -42,7 +42,12 @@ namespace PresentationLayer
             }
             else
             {
-                //khoi dong form nao do
+                //this.Close();
+
+                FormMain fMain = new FormMain();
+
+                fMain.Show();
+                this.Hide();
             }
 
 
