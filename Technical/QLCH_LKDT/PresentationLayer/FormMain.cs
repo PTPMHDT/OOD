@@ -15,5 +15,12 @@ namespace PresentationLayer
         {
             InitializeComponent();
         }
+
+        private void btnLinhKien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            panelMain.Controls.Clear();
+            var ucKhachHang = new UCLinhKien();
+            panelMain.Controls.Add(ucKhachHang);
+        }
     }
 }

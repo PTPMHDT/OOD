@@ -29,15 +29,15 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
-            DevExpress.Utils.SuperToolTip superToolTip1 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem1 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.SuperToolTip superToolTip2 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem2 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.SuperToolTip superToolTip3 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem3 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.Utils.SuperToolTip superToolTip4 = new DevExpress.Utils.SuperToolTip();
-            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem4 = new DevExpress.Utils.ToolTipTitleItem();
-            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup1 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
+            DevExpress.Utils.SuperToolTip superToolTip5 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem5 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.SuperToolTip superToolTip6 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem6 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.SuperToolTip superToolTip7 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem7 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.Utils.SuperToolTip superToolTip8 = new DevExpress.Utils.SuperToolTip();
+            DevExpress.Utils.ToolTipTitleItem toolTipTitleItem8 = new DevExpress.Utils.ToolTipTitleItem();
+            DevExpress.XtraBars.Ribbon.GalleryItemGroup galleryItemGroup2 = new DevExpress.XtraBars.Ribbon.GalleryItemGroup();
             this.ribbonControl1 = new DevExpress.XtraBars.Ribbon.RibbonControl();
             this.btnSale = new DevExpress.XtraBars.BarButtonItem();
             this.btnLinhKien = new DevExpress.XtraBars.BarButtonItem();
@@ -84,7 +84,9 @@
             this.ribbonPage5 = new DevExpress.XtraBars.Ribbon.RibbonPage();
             this.ribbonPageGroup11 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
             this.ribbonPageGroup12 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.panelMain = new DevExpress.XtraEditors.PanelControl();
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.panelMain)).BeginInit();
             this.SuspendLayout();
             // 
             // ribbonControl1
@@ -129,7 +131,7 @@
             this.ribbonPage3,
             this.ribbonPage4,
             this.ribbonPage5});
-            this.ribbonControl1.Size = new System.Drawing.Size(672, 141);
+            this.ribbonControl1.Size = new System.Drawing.Size(911, 141);
             // 
             // btnSale
             // 
@@ -148,6 +150,7 @@
             this.btnLinhKien.Id = 2;
             this.btnLinhKien.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnLinhKien.LargeGlyph")));
             this.btnLinhKien.Name = "btnLinhKien";
+            this.btnLinhKien.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.btnLinhKien_ItemClick);
             // 
             // btnLoaiLinhKien
             // 
@@ -204,9 +207,9 @@
             this.btnNhapKho.Id = 9;
             this.btnNhapKho.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnNhapKho.LargeGlyph")));
             this.btnNhapKho.Name = "btnNhapKho";
-            toolTipTitleItem1.Text = "Danh sách các phiếu nhập kho";
-            superToolTip1.Items.Add(toolTipTitleItem1);
-            this.btnNhapKho.SuperTip = superToolTip1;
+            toolTipTitleItem5.Text = "Danh sách các phiếu nhập kho";
+            superToolTip5.Items.Add(toolTipTitleItem5);
+            this.btnNhapKho.SuperTip = superToolTip5;
             // 
             // btnXuatKho
             // 
@@ -215,9 +218,9 @@
             this.btnXuatKho.Id = 10;
             this.btnXuatKho.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnXuatKho.LargeGlyph")));
             this.btnXuatKho.Name = "btnXuatKho";
-            toolTipTitleItem2.Text = "Danh sách các phiếu xuất kho";
-            superToolTip2.Items.Add(toolTipTitleItem2);
-            this.btnXuatKho.SuperTip = superToolTip2;
+            toolTipTitleItem6.Text = "Danh sách các phiếu xuất kho";
+            superToolTip6.Items.Add(toolTipTitleItem6);
+            this.btnXuatKho.SuperTip = superToolTip6;
             // 
             // btnPhieuNhapKho
             // 
@@ -226,9 +229,9 @@
             this.btnPhieuNhapKho.Id = 11;
             this.btnPhieuNhapKho.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnPhieuNhapKho.LargeGlyph")));
             this.btnPhieuNhapKho.Name = "btnPhieuNhapKho";
-            toolTipTitleItem3.Text = "Tạo phiếu nhập kho";
-            superToolTip3.Items.Add(toolTipTitleItem3);
-            this.btnPhieuNhapKho.SuperTip = superToolTip3;
+            toolTipTitleItem7.Text = "Tạo phiếu nhập kho";
+            superToolTip7.Items.Add(toolTipTitleItem7);
+            this.btnPhieuNhapKho.SuperTip = superToolTip7;
             // 
             // btnPhieuXuatKho
             // 
@@ -237,9 +240,9 @@
             this.btnPhieuXuatKho.Id = 12;
             this.btnPhieuXuatKho.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("btnPhieuXuatKho.LargeGlyph")));
             this.btnPhieuXuatKho.Name = "btnPhieuXuatKho";
-            toolTipTitleItem4.Text = "Tạo phiếu xuất kho";
-            superToolTip4.Items.Add(toolTipTitleItem4);
-            this.btnPhieuXuatKho.SuperTip = superToolTip4;
+            toolTipTitleItem8.Text = "Tạo phiếu xuất kho";
+            superToolTip8.Items.Add(toolTipTitleItem8);
+            this.btnPhieuXuatKho.SuperTip = superToolTip8;
             // 
             // btnChiTietBanHang
             // 
@@ -339,9 +342,9 @@
             // 
             // 
             // 
-            galleryItemGroup1.Caption = "Group1";
+            galleryItemGroup2.Caption = "Group1";
             this.ribbonGalleryBarItem1.Gallery.Groups.AddRange(new DevExpress.XtraBars.Ribbon.GalleryItemGroup[] {
-            galleryItemGroup1});
+            galleryItemGroup2});
             this.ribbonGalleryBarItem1.Id = 28;
             this.ribbonGalleryBarItem1.Name = "ribbonGalleryBarItem1";
             // 
@@ -505,16 +508,25 @@
             this.ribbonPageGroup12.Name = "ribbonPageGroup12";
             this.ribbonPageGroup12.Text = "Hệ Thống";
             // 
+            // panelMain
+            // 
+            this.panelMain.Location = new System.Drawing.Point(0, 148);
+            this.panelMain.Name = "panelMain";
+            this.panelMain.Size = new System.Drawing.Size(911, 547);
+            this.panelMain.TabIndex = 1;
+            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(672, 398);
+            this.ClientSize = new System.Drawing.Size(911, 690);
+            this.Controls.Add(this.panelMain);
             this.Controls.Add(this.ribbonControl1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "FormMain";
             this.Text = "Cửa Hàng Linh Kiện Điện Thoại";
             ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.panelMain)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -568,6 +580,7 @@
         private DevExpress.XtraBars.RibbonGalleryBarItem ribbonGalleryBarItem2;
         private DevExpress.XtraBars.SkinRibbonGalleryBarItem skinRibbonGalleryBarItem2;
         private DevExpress.XtraBars.RibbonGalleryBarItem ribbonGalleryBarItem3;
+        private DevExpress.XtraEditors.PanelControl panelMain;
 
     }
 }
