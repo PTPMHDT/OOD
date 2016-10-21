@@ -19,8 +19,15 @@ namespace PresentationLayer
         private void btnLinhKien_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             panelMain.Controls.Clear();
-            var ucKhachHang = new UCLinhKien();
-            panelMain.Controls.Add(ucKhachHang);
+            var ucLinhKien = new UCLinhKien();
+            panelMain.Controls.Add(ucLinhKien);
+        }
+
+        private void btnSale_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
+        {
+            panelMain.Controls.Clear();
+            var ucBanHang = new UCBanHang();
+            panelMain.Controls.Add(ucBanHang);
         }
     }
 }

@@ -3,3 +3,8 @@ c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.dll
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataTransferObject\bin\Debug\DataTransferObject.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataTransferObject\bin\Debug\DataTransferObject.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataTransferObject\obj\Debug\DataTransferObject.pdb

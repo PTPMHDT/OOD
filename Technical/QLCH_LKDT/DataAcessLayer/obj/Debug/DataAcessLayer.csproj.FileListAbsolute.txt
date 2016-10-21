@@ -5,3 +5,10 @@ c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\bin\
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.csprojResolveAssemblyReference.cache
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.dll
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataAcessLayer\bin\Debug\DataAcessLayer.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataAcessLayer\bin\Debug\DataAcessLayer.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataAcessLayer\bin\Debug\DataTransferObject.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataAcessLayer\bin\Debug\DataTransferObject.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\DataAcessLayer\obj\Debug\DataAcessLayer.pdb

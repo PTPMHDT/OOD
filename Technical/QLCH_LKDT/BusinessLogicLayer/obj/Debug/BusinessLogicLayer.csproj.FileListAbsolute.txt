@@ -7,3 +7,12 @@ c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\BusinessLogicLayer\
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
 c:\users\kid\documents\visual studio 2013\Projects\QLCH_LKDT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\bin\Debug\DataAcessLayer.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\bin\Debug\DataTransferObject.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\bin\Debug\DataAcessLayer.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\bin\Debug\DataTransferObject.pdb
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Hoc Tap\Kì 9\OOD\trunk\Technical\QLCH_LKDT\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

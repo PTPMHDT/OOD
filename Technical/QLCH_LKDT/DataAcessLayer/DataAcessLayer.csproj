@@ -39,8 +39,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Kho_DAL.cs" />
+    <Compile Include="NguoiDung_DAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="User_DAL.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DataTransferObject\DataTransferObject.csproj">
